@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+body{
+  font-family: "Archivo Black", cursive;
+  
+}
+
+.pic {
+  margin-left: 34%;
+  margin-top: 5%;
+  height: 250px;
+  width: 250px;
+  border-radius: 120px;
+}
+
+.page {
+  border-radius: 39px;
+  margin-top: 100px;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: #ebeae8; 
+}
+.buttons {
+  margin-top: 40px;
+  margin-left: 34%;
+  color: white;
+  background-color: #4e524f;
+  text-align: center;
+  border-radius: 18px;
+  border: none;
+  text-decoration: none;
+	height: 40px;
+	width: 250px;
+  font-size: 16px;
+}
+
+.schrift {
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.schrift1 {
+    margin-left: 36%;
+    margin-top: 10px;
+}
+
+h6 {
+    text-align: center;
+}
